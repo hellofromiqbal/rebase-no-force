@@ -1,4 +1,5 @@
 navbar
 jumbotron
+about
 product
 service
